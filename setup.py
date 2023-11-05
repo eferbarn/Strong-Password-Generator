@@ -1,5 +1,6 @@
 from setuptools import setup, find_packages
 
+# You can set your desired values to build your own distribution.
 setup(
     name='passgen',
     version='1.0.0',
